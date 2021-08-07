@@ -91,6 +91,10 @@ int rever_sort(vi list)
     return cost;
 }
 
+/*
+    Done with grace on 7th August, 2021 ~ Saturday_1
+*/
+
 
 int main()
 {
