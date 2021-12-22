@@ -1,0 +1,8 @@
+while( l< = h)
+long long mid = (l+h)/2
+
+if (m*(m+1) > 2*n)
+	h = m -1
+else
+	ans = m
+	l = m+1
